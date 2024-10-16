@@ -60,3 +60,20 @@ This project is developed as part of the **IMAT3914 Application Architecture** m
    ```bash
    git clone https://github.com/lucrece456/Online-Library-System.git
 
+Open the solution in Visual Studio 2022.
+Build the project to restore dependencies.
+Run the application using IIS Express or any configured web server.
+Future Enhancements
+
+Integration of advanced book recommendation algorithms based on user preferences.
+Addition of real-time notifications for overdue books and fines.
+Contact Information
+
+For any questions or collaboration, feel free to reach out to me:
+
+Helen Chris
+Email:  Chrishelen410@gmail.com
+License
+
+This project is developed for academic purposes under the Application Architecture (IMAT3914) module and is open for educational collaboration.
+
