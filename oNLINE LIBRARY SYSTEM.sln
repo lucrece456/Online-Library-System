@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oNLINE LIBRARY SYSTEM", "oNLINE LIBRARY SYSTEM\oNLINE LIBRARY SYSTEM.csproj", "{3319BCA0-C8F0-4340-96C3-164425646B24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oNLINE LIBRARY SYSTEM.Tests", "oNLINE LIBRARY SYSTEM.Tests\oNLINE LIBRARY SYSTEM.Tests.csproj", "{C35B7CA5-52C1-4821-99D4-85B0B8C652BB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{D73300CD-E2D9-4A7D-BF57-8822B6B43020}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3319BCA0-C8F0-4340-96C3-164425646B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3319BCA0-C8F0-4340-96C3-164425646B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3319BCA0-C8F0-4340-96C3-164425646B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3319BCA0-C8F0-4340-96C3-164425646B24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C35B7CA5-52C1-4821-99D4-85B0B8C652BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C35B7CA5-52C1-4821-99D4-85B0B8C652BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C35B7CA5-52C1-4821-99D4-85B0B8C652BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C35B7CA5-52C1-4821-99D4-85B0B8C652BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B6D4EBE-655B-4E01-AA0E-8F3EDCDD61BF}
+	EndGlobalSection
+EndGlobal

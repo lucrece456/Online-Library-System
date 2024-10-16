@@ -1,0 +1,2 @@
+H:\Desktop\oNLINE LIBRARY SYSTEM\oNLINE LIBRARY SYSTEM.Tests\obj\Debug\oNLINE LIBRARY SYSTEM.Tests.csproj.AssemblyReference.cache
+H:\Desktop\oNLINE LIBRARY SYSTEM\oNLINE LIBRARY SYSTEM.Tests\obj\Debug\oNLINE LIBRARY SYSTEM.Tests.csproj.CoreCompileInputs.cache

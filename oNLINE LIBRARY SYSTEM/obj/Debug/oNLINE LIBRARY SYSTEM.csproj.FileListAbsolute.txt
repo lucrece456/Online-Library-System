@@ -1,0 +1,2 @@
+H:\Desktop\oNLINE LIBRARY SYSTEM\oNLINE LIBRARY SYSTEM\obj\Debug\oNLINE LIBRARY SYSTEM.csproj.AssemblyReference.cache
+H:\Desktop\oNLINE LIBRARY SYSTEM\oNLINE LIBRARY SYSTEM\obj\Debug\oNLINE LIBRARY SYSTEM.csproj.CoreCompileInputs.cache
